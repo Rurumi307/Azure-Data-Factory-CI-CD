@@ -281,7 +281,17 @@ Check will be saved to adf_publish branch in Git
 
       ```shell
       -factoryName $(datafactoryName)
+      -AzureKeyVault_ADF_properties_typeProperties_baseUrl "https://ebg-adf-qas-vault.vault.azure.net/"
+      -DC_Sandbox_properties_typeProperties_connectionString_secretName "dc-sandbox-connection-string"
+      -DG_properties_typeProperties_connectionString_secretName "dg-connection-string"
+      -PDM_PRD_IECW9_properties_typeProperties_connectionString_secretName "PDM-PRD-IECW9-connection-string"
+      -PDM_PRD_TAOC9_properties_typeProperties_connectionString_secretName "PDM-PRD-TAOC9-connection-string"
+      -PDM_PRD_TAOW9_properties_typeProperties_connectionString_secretName "PDM-PRD-TAOW9-connection-string"
+      -mx_actionlog_db_properties_typeProperties_connectionString_secretName "mx-actionlog-db-connection-string"
+      -DG_SCM_0900_DailyTrigger_properties_SCM_Inventory_Pipeline_parameters_END_DT_CHAR "@formatDateTime(trigger().scheduledTime, 'yyyyMMdd')"
+      -OnPremisesIntegrationRuntime_properties_typeProperties_linkedInfo_resourceId "/subscriptions/f40c2b20-df12-4cca-a001-9b2681e59747/resourcegroups/EBGIT-DIV2-DataFactory/providers/Microsoft.DataFactory/factories/ebg-div2-datafactory/integrationruntimes/OnPremisesIntegrationRuntime"
       -default_properties_environment_value "qas"
+      -default_properties_subscription_id_value "bb4a4ba1-2924-4ac2-ac7c-fba6e6f3e74e"
       -default_properties_resource_group_name_value $(resourceGroupName)
       ```
 
