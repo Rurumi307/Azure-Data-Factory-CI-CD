@@ -7,4 +7,4 @@
 ## References
 
 <!-- url references -->
-[01]: adf-ci-cd/adf-ci-cd-README.md
+[01]: adf-ci-cd/adf-ci-cd.md
