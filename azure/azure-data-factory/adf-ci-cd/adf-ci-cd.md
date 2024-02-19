@@ -512,4 +512,4 @@ Check will be saved to adf_publish branch in Git
 [data-factory-pending-changes]: ./_assets/data-factory-pending-changes.png
 [data-factory-devops-releases]: ./_assets/data-factory-devops-releases.png
 [data-factory-devops-releases-approve]: ./_assets/data-factory-devops-releases-approve.png
-[data-factory-ckeck-trigger-status]: ./_assets/data-factory-ckeck-trigger-status.png
+[data-factory-ckeck-trigger-status]: _assets/data-factory-ckeck-trigger-status.png
