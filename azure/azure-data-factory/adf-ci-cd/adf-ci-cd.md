@@ -463,7 +463,7 @@ Check will be saved to adf_publish branch in Git
 [data-factory-link-devops-repo-configure-repository]: /_assets/data-factory-link-devops-repo-configure-repository.png
 [data-factory-link-devops-repo-configure-repository-2]: /_assets/data-factory-link-devops-repo-configure-repository-2.png
 [data-factory-link-devops-repo-set-working-branch]: /_assets/data-factory-link-devops-repo-set-working-branch.png
-[data-factory-link-devops-repo-check-setting]: /_assets/data-factory-link-devops-repo-check-setting.png
+[data-factory-link-devops-repo-check-setting]: https://github.com/Rurumi307/Document/blob/3c5b3f11e28df497ae91fcf28c78153d83fdf60d/azure/azure-data-factory/adf-ci-cd/_assets/data-factory-link-devops-repo-check-setting.png
 [data-factory-link-devops-repo-check-devops-setting]: /_assets/data-factory-link-devops-repo-check-devops-setting.png
 [data-factory-first-publish]: /_assets/data-factory-first-publish.png
 [data-factory-first-publish-pending-changes]: /_assets/data-factory-first-publish-pending-changes.png
