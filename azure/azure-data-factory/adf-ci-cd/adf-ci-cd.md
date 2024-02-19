@@ -459,7 +459,7 @@ Check will be saved to adf_publish branch in Git
 [R003]: https:/_assets/github.com/Azure/Azure-DataFactory/blob/main/SamplesV2/ContinuousIntegrationAndDelivery/PrePostDeploymentScript.Ver2.ps1
 [R004]: https:/_assets/www.tackytech.blog/how-to-customize-data-factory-triggers-across-environments-with-azure-devops-pipelines/
 [data-factory-CI/CD]: https:/_assets/learn.microsoft.com/en-us/azure/data-factory/media/continuous-integration-delivery/continuous-integration-image12.png
-<<<<<<< HEAD
+
 [data-factory-link-devops-repo-connect-git-repo]: /azure/azure-data-factory/adf-ci-cd/_assets/data-factory-link-devops-repo-connect-git-repo.png
 [data-factory-link-devops-repo-configure-repository]: /azure/azure-data-factory/adf-ci-cd/_assets/data-factory-link-devops-repo-configure-repository.png
 [data-factory-link-devops-repo-configure-repository-2]: /azure/azure-data-factory/adf-ci-cd/_assets/data-factory-link-devops-repo-configure-repository-2.png
