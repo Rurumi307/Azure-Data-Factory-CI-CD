@@ -12,7 +12,7 @@ Enable Remote Access and Connect to a Virtual Machine
 ![remote-desktop][remote-desktop-enable]
 
 - **Advanced settings** > Configure Network Level Authentication  
-_Network level authentication_ is used for authenticating Remote Desktop services, such as Windows RDP, and Remote Desktop Connection (RDP Client)
+_Network level authentication_ is used for authenticating Remote Desktop services, such as Windows RDP, and Remote Desktop Connection (RDP Client)  
 ![remote-desktop][remote-desktop-enable-advanced-setting]
 
 Add User Account 
